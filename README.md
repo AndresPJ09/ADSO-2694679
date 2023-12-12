@@ -18,7 +18,7 @@ Ficha de Análisis y Desarrollo de Sistemas de Información ADSO-2694679.
 
 - MAYRA ALEJANDRA TAMAYO PERDOMO: [Enlace](https://github.com/MayraTamayo18/AlejaTamayo-ADSO-2694679.git)
 - JUAN DAVID GARCIA CALDERON: [Enlace](https://github.com/JuanDamm/JesusGonzalez-ADSO-2694679.git)
-- CARLOS ANDRES PANTOJA JARAMILLO: [Enlace](https://github.com/AndresPJ09/SenaJava.git)
+- CARLOS ANDRES PANTOJA JARAMILLO: [Enlace](https://github.com/AndresPJ09/Cuarto_Trimestre.git)
 - YANUARD STEVIN MONTIALEGRE BONILLA: [Enlace](https://github.com/drago501/YanuardStevinMontialegre-ADSO-2694679.git)
 - DAVID MAURICIO FLOREZ QUINTERO: [Enlace](https://github.com/DavidFlorezQuin/JesusGonzalez-ADSO-2694679.git)
 - ERICK DANIEL PEÑA CEDEÑO: [Enlace](https://github.com/ErickPea/TRABAJOJESUS.git)
